@@ -9,7 +9,7 @@ hr {
 }
 
 .post_navi-label {
-  font-size: 0.8em;
+  font-size: 0.4em;
   opacity: 0.5;
 }
 
@@ -40,6 +40,6 @@ hr {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
-  font-size: 2.5em;
+  font-size: 1.5em;
   opacity: 0.3;
 }
