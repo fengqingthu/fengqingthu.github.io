@@ -39,4 +39,4 @@ defaults:
       path: ""
       type: post
     values:
-      tags: Blogs
+      tags: "随笔"

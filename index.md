@@ -1,1 +1,4 @@
-Qing's recent sketchbook.
+---
+layout: home
+list_title: '随笔'
+---
