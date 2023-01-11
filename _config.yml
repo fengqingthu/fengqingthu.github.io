@@ -19,7 +19,7 @@ author: "Qing Feng 冯青"
 #########################################################################################
 theme: "minima"
 
-rss: rss
+# rss: rss
 
 kramdown:
   syntax_highlighter_opts:
@@ -27,6 +27,7 @@ kramdown:
     
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
   - jekyll-sitemap
 
 titles_from_headings:
@@ -38,4 +39,4 @@ defaults:
       path: ""
       type: post
     values:
-      tags: Other
+      tags: Blogs
