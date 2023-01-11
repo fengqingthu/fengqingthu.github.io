@@ -1,13 +1,12 @@
 title: "近期速写本"
 author: "Qing Feng 冯青"
-description: "Qing's recent sketchbook." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+# description: "Qing's recent sketchbook." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email: "fengqingthu@gmail.com"
-# twitter_username: "twitteruser"
-github_username: "fengqingthu"
-linkedin_username: "qingfeng-harvardgsd"
+# email: "fengqingthu@gmail.com"
+# github_username: "fengqingthu"
+# linkedin_username: "qingfeng-harvardgsd"
 #facebook_username: username
 #flickr_username: username
 #instagram_username: username

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog Archive
+title: 归档
 ---
 
 {% for tag in site.tags %}
