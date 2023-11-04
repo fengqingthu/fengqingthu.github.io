@@ -3,7 +3,7 @@ layout: page
 list_title: ' '
 ---
 
-人生梦想是以后财富自由了当个作家，分享自己的personal essays.
+人生梦想是财务自由以后当个作家，分享自己的personal essays，于是做了现在这个早期存储的地方。
 
 <br />
 
