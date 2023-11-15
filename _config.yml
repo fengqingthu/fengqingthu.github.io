@@ -35,8 +35,10 @@ titles_from_headings:
   collections: true
 
 defaults:
-  - scope:
-      path: ""
-      type: post
+  - 
+    scope:
+      path: "_posts/essay"
+      type: "post"
     values:
       tags: "随笔"
+      layout: "post"
