@@ -1,4 +1,4 @@
-## Digging Up Mother 挖老妈
+## Digging up Mother 挖老妈
 
 Translated from book in the same name by Doug Stanhope.
 
