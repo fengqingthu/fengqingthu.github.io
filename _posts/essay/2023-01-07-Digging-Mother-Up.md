@@ -1,6 +1,6 @@
 ## Digging up Mother 挖老妈
 
-Translated from book in the same name by Doug Stanhope.
+Translated from Doug Stanhope's book of the same name.
 
 This is an invitation to\
 这是一份请柬\
