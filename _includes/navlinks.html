@@ -5,8 +5,8 @@
     <div class="post_navi-arrow">&lt;</div><div class="post_navi-label">Previous Post</div><div><span>{{ page.previous.title }}</span></div>
   </a>
   {%- else -%}
-  <a class="post_navi-item nav_prev" href="{{ '/' | absolute_url }}" title="全部随笔">
-    <div class="post_navi-arrow">&lt;</div><div class="post_navi-label">全部随笔</div><div><span>回到首页查看全部随笔</span></div>
+  <a class="post_navi-item nav_prev" href="{{ '/' | absolute_url }}" title="首页">
+    <div class="post_navi-arrow">&lt;</div><div class="post_navi-label">首页</div><div><span>回到首页</span></div>
   </a>
   {%- endif -%}
   {%- if page.next.url -%}
@@ -14,8 +14,8 @@
     <div class="post_navi-arrow">&gt;</div><div class="post_navi-label">Next Post</div><div><span>{{ page.next.title }}</span></div>
   </a>
   {%- else -%}
-  <a class="post_navi-item nav_next" href="{{ '/' | absolute_url }}" title="全部随笔">
-    <div class="post_navi-arrow">&gt;</div><div class="post_navi-label">全部随笔</div><div><span>回到首页查看全部随笔</span></div>
+  <a class="post_navi-item nav_next" href="{{ '/' | absolute_url }}" title="首页">
+    <div class="post_navi-arrow">&gt;</div><div class="post_navi-label">首页</div><div><span>回到首页</span></div>
   </a>
   {%- endif -%}
 </div>
